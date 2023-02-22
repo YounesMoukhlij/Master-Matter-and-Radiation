@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{L’origine des Harmoniques Sphériques }{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Petite introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Démonstration}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Quelques propriétés}{5}{0}{1}
+\beamer@sectionintoc {2}{Forme des premiers polynômes de Legendre}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Calcul}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{représentation graphique}{7}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{9}{0}{3}
